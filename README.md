@@ -55,26 +55,6 @@ Welcome to my personal portfolio! This repository showcases my projects, skills,
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SrihariSakshith&theme=radical&hide_border=false)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SrihariSakshith&theme=radical&hide_border=false&layout=compact)
 
----
-
-## 🏆 GitHub Achievements
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=SrihariSakshith&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-
-## 🔝 Top Contributed Repositories
-
-![Top Repositories](https://github-contributor-stats.vercel.app/api?username=SrihariSakshith&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
----
-
-## 📊 Visitor Count
-
-[![Visitor Count](https://visitcount.itsvg.in/api?id=SrihariSakshith&label=Profile%20Views&color=6&icon=5&pretty=true)](https://visitcount.itsvg.in)
-
----
-
 ## 📬 Contact Me
 
 Feel free to reach out for collaborations, project discussions, or just to say hi!  
