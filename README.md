@@ -1,9 +1,3 @@
-# 🌟 Srihari Sakshith Kotichintala - Portfolio
-
-Welcome to my personal portfolio! This repository showcases my projects, skills, achievements, and academic journey. It reflects my passion for coding, problem-solving, and continuous learning in the field of Artificial Intelligence and Machine Learning.
-
----
-
 ## 🚀 About Me
 
 🎓 **CSE-AIML Student** at Vasavi College of Engineering, Hyderabad.  
